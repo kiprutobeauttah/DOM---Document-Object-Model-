@@ -43,7 +43,7 @@ Let's break down the analogy:
 
 ## 👨‍👩‍👧‍👦 The DOM is a Family Tree (Tree Structure)
 
-The most fundamental concept to grasp is the **DOM Tree**. Imagine your HTML document isn't just a flat list of tags, but a beautifully organized family tree, or an inverted tree where the root is at the top. Every single piece of your HTML—every tag, every piece of text, even comments—becomes a **node** in this tree.
+The most fundamental concept to grasp is the **DOM Tree**. Imagine your HTML document isn't just a flat list of tags, but a beautifully organized family tree, or an inverted tree where the root is at the top. Every single piece of your HTML-every tag, every piece of text, even comments—becomes a **node** in this tree.
 
 - The **document** itself is the ultimate ancestor, the cosmic origin point of your web page.
 - The `<html>` tag is the main parent, the "founding father" of your visible web content.
@@ -225,7 +225,7 @@ document.body.appendChild(footerParagraph); // Add it to the end of the body
 
 The DOM is the bridge between your static HTML page and the dynamic, interactive world of JavaScript. Understanding this structure unlocks the ability to build truly interactive, modern web experiences: from simple dropdown menus and image carousels to complex single-page applications.
 
-You are now equipped with the fundamental knowledge to make things move, change color, respond to users, and bring your web pages to life—you are lucky indeed!
+You are now equipped with the fundamental knowledge to make things move, change color, respond to users, and bring your web pages to life...you are lucky indeed!
 
 ### Practice Challenges (Get Your Hands Dirty!)
 
