@@ -15,7 +15,7 @@ The **DOM (Document Object Model)** is essentially a programming interface for H
 
 Imagine you have a beautifully crafted house. The HTML is like the initial architect's sketch and the pile of raw materials. The browser then takes those materials and sketches and builds the physical house. The DOM isn't the sketch or the materials; it's the **actual, structured house itself**, ready for you to walk through, rearrange furniture, or even add new rooms!
 
-It provides a structured, tree-like representation of your web page, and it allows programs—specifically JavaScript—to access and change the document's structure, style, and content. Think of JavaScript as the incredibly skilled interior designer, renovator, or even the magical force that can instantly change aspects of the house.
+It provides a structured, tree-like representation of your web page, and it allows programs ...specifically JavaScript -to access and change the document's structure, style, and content. Think of JavaScript as the incredibly skilled interior designer, renovator, or even the magical force that can instantly change aspects of the house.
 
 ### 🏠 Symbolism: The House Blueprint & The Living House
 
